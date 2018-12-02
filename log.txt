@@ -1,0 +1,10 @@
+-----OMDB Log Entry Start-----
+
+Processed on:
+Sat Dec 01 2018 01:10:51 GMT-0700 (Mountain Standard Time)
+
+terminal commands:
+C:\Program Files\nodejs\node.exe,C:\Users\bshah\OneDrive\code\liri-node-app\liri.js,movie-this,ghost
+
+Data Output: 
+
